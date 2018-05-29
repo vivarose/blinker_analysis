@@ -5,6 +5,7 @@ blinkeranalysis.py
 PL.npy
 time.npy
 .gitignore~
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
