@@ -2,6 +2,7 @@
 
 GoodBlinker_5-25-2018.txt
 blinkeranalysis.py
+blinker_analysis_with_exponential_fit - *.ipynb
 PL.npy
 time.npy
 .gitignore~
