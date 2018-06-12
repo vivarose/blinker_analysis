@@ -6,6 +6,7 @@ blinker_analysis_with_exponential_fit - *.ipynb
 PL.npy
 time.npy
 .gitignore~
+.gitignore.swp
 *.pdf
 
 # Byte-compiled / optimized / DLL files
